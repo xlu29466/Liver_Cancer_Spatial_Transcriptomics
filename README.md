@@ -3,17 +3,17 @@ We used nHDP model to learn gene expression modules (GEMs) from scRNA data, and 
 
 ## Requirements (all lastest version):
 scanpy  
-numpy
-pandas
-matplotlib
-anndata
-scipy
-cv2
-seaborn
-sklearn
-harmony-pytorch
-pingouin
-tqdm
+numpy  
+pandas  
+matplotlib  
+anndata  
+scipy  
+cv2  
+seaborn  
+sklearn  
+harmony-pytorch  
+pingouin  
+tqdm  
 
 
 
