@@ -14,14 +14,15 @@ sklearn
 harmony-pytorch  
 pingouin  
 tqdm  
-
 ## Step 1:
-Download the proejct folder to local.
+Read the raw data paper to get yourself familiar with the data and spatial transcriptomics.
 ## Step 2:
-Download raw data (HCC 1-4N, HCC 1-4L, HCC 1-4T, 12 folders in total) from "DataAccessWeb"(in this repo), put the downloaded files into a folder called "raw_data". Put "raw_data" folder in the project folder. 
+Download the proejct folder to local.
 ## Step 3:
-Download the nHDP inference folder "nHDP" from Microsoft Teams SpatialSep - Files - Spatial_Eric - "nHDP" folder. Put the folder in the project folder. 
+Download raw data (HCC 1-4N, HCC 1-4L, HCC 1-4T, 12 folders in total) from "DataAccessWeb"(in this repo), put the downloaded files into a folder called "raw_data". Put "raw_data" folder in the project folder. 
 ## Step 4:
+Download the nHDP inference folder "nHDP" from Microsoft Teams SpatialSep - Files - Spatial_Eric - "nHDP" folder. Put the folder in the project folder. 
+## Step 5:
 You are ready to explore the notebooks.
 ## Notebook Descriptions:
 1. read_visium.ipynb: Basic analysis of the raw data. Batch effects removal was also explored. No nHDP results involved.
